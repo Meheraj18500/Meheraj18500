@@ -1,10 +1,10 @@
+<p align="left"> <a href="https://developermeheraj.com/" target="blank"><img src="https://developermeheraj.com/wp-content/uploads/2023/06/developer-meheraj.png" alt="meheraj185" /></a> </p>
+
 ## Hi There, I'm Meheraj 👋
 
 <p>
 👑 I am WordPress Developer <br> 
 🖊️ Love to write code <br> 
-
-<p align="left"> <a href="https://developermeheraj.com/" target="blank"><img src="https://developermeheraj.com/wp-content/uploads/2023/06/developer-meheraj.png" alt="meheraj185" /></a> </p>
 
 ## 🚀 About Me
 I’m a WordPress & Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I've 3 years of experience in WordPress Development. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JS as well as PHP.

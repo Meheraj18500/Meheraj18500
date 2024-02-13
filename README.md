@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://developermeheraj.com/" target="blank"><img src="https://ibb.co/JnKcnVg" alt="developer Meheraj" /></a> </p>
+<p align="left"> <a href="https://developermeheraj.com/" target="blank"><img src="https://i.ibb.co/PxNrxK0/developer-meheraj.png" alt="developer Meheraj" /></a> </p>
 
 ## Hi There, I'm Meheraj 👋
 

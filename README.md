@@ -1,9 +1,9 @@
-<p align="left"> <a href="https://developermeheraj.com/" target="blank"><img src="https://developermeheraj.com/wp-content/uploads/2023/06/developer-meheraj.png" alt="meheraj185" /></a> </p>
+<p align="left"> <a href="https://developermeheraj.com/" target="blank"><img src="https://ibb.co/JnKcnVg" alt="developer Meheraj" /></a> </p>
 
 ## Hi There, I'm Meheraj 👋
 
 <p>
-👑 I am WordPress Developer <br> 
+👑 I am Web Developer & WordPress Developer <br> 
 🖊️ Love to write code <br> 
 
 ## 🚀 About Me
